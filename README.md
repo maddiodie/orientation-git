@@ -6,7 +6,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 
 ## Checklist
 
-LOOK AT ME MAKING ALL THESE MF CHANGES YO :)
+LOOK AT ME MAKING ALL THESE CHANGES YO :)
 - [x] View this README  
 - [x] Create a GitHub Account  
 - [x] Open your Command Line Interface  
@@ -14,7 +14,7 @@ LOOK AT ME MAKING ALL THESE MF CHANGES YO :)
 - [x] Setting up your Authentication  
 - [x] Forking a Repository  
 - [x] Cloning a Repository  
-- [ ] Making Changes to the Repository  
+- [X] Making Changes to the Repository  
 - [ ] Committing Changes Locally  
 - [ ] Moving Changes to GitHub   
 - [ ] Standard Work Flow
